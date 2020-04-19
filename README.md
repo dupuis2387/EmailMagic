@@ -1,5 +1,14 @@
 # Email Magic
-Some tips and tricks for marketing email magic. Sample code to follow
+Some tips and tricks for marketing email magic. 
+This repo is to support both articles here:
+
+https://hubpages.com/technology/Dynamic-email-images-and-other-fancy-analytical-features-that-you-can-easilyDIY
+(which they keep pulling for some reason?)
+
+or the less prestigious version, here
+https://medium.com/@dupuis2387/dynamic-images-in-emails-and-other-fancy-analytical-features-that-you-can-easily-diy-28b5dc3a96f0
+
+
 
 # Demystifying some email tips tricks, and magic 
 So, for a while now, a part of my job has included doing the coding part of marketing emails. 
