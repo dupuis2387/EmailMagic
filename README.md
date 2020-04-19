@@ -9,7 +9,7 @@ or the less prestigious version, here
 https://medium.com/@dupuis2387/dynamic-images-in-emails-and-other-fancy-analytical-features-that-you-can-easily-diy-28b5dc3a96f0
 
 
-###### Important
+#### Important
 If you clone this, make sure to visit https://github.com/aheckmann/gm who wrote the GraphicsMagick and ImageMagick NodeJs wrappers. As the repo there states, you'll first need to install ImageMagick on your machine, before you `npm install` what's in this repo.
 
 
