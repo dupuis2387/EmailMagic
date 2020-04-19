@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-email-images",
+  "version": "1.0.0",
+  "description": "a small example of creating dynamic images with GraphicsMagick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alex Trandaburu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gm": "^1.23.1"
+  }
+}
